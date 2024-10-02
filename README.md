@@ -2,7 +2,7 @@
 Grocery store app is Flutter Store App with modern ui and Auth
 
 # SCREEN
-['pages_screen'](assets/screenshots/screen.jpeg)
+![pages_screen](assets/screenshots/screen.jpeg)
 
 
 
